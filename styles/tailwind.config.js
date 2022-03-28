@@ -24,13 +24,13 @@ module.exports = {
           css: {
             maxWidth: '100%',
             a: {
-              color: '#1D4ED8',
+              color: '#ffffff',
               '&:hover': {
-              color: '#1E3A8A',
+              color: '#ffffff',
               },
             },
             '.prose a.edit, .tag a': {
-              color: '#333',
+              color: '#ffffff',
               'text-decoration': 'none',
             },
             'ul.footer-nav': {
@@ -53,7 +53,7 @@ module.exports = {
         },
       }
     },
-  }, 
+  },
   variants: {},
   plugins: [
     require('@tailwindcss/typography'),
