@@ -13,7 +13,7 @@
   }
   /* Overrides for Tailwind Typography prose class */
   .prose a {
-    @apply dark:text-gray-400
+    @apply dark:text-white-400
   }
   .prose a:hover {
     @apply dark:text-gray-500
