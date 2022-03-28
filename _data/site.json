@@ -1,8 +1,8 @@
 {
-  "name": "Spacebook",
+  "name": "Taming Tech",
   "subtitle": "hello this is in site.json",
   "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
-  "footer": "Made with ❤ in Minneapolis",
+  "footer": "Made with ❤ in Lewes",
   "url": "https://spacebook.app",
   "githubUrl": "https://github.com/<username>/<repository>",
   "githubBranch": "main",
