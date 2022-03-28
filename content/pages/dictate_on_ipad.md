@@ -4,6 +4,7 @@ date: Last Modified
 permalink: /Apple/iPad/dictation.html
 eleventyNavigation:
   key: Dictating_text_iPad
+  parent: Apple
   order: 10
   title: Dictating text on an iPad
 ---
