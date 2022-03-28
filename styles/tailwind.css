@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  
+
   /* Set up some default image behavior for nicer images */
   img {
     @apply w-auto  shadow-md border-2 border-transparent !important
@@ -13,19 +13,19 @@
   }
   /* Overrides for Tailwind Typography prose class */
   .prose a {
-    @apply dark:text-gray-400
+    @apply dark:text-white-400
   }
   .prose a:hover {
-    @apply dark:text-gray-500
+    @apply dark:text-white-500
   }
   .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 .prose hr, .prose strong {
-    @apply dark:text-gray-400
+    @apply dark:text-red-400
   }
   .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
     scroll-margin-top: 3.5em;
   }
   .prose pre code {
-    @apply overflow-x-auto !important 
+    @apply overflow-x-auto !important
   }
   .prose .footer-nav a {
     @apply no-underline !important
@@ -113,13 +113,13 @@
     @apply shadow-md ml-auto mr-auto  p-2 !important
   }
   .adjust  p img:hover, .adjust img:hover {
-    @apply shadow-xl  
+    @apply shadow-xl
   }
   .adjust img.button {
     @apply w-auto  shadow-none !important
   }
   .text-align-center {
-    @apply flex justify-center; 
+    @apply flex justify-center;
   }
   .icon-spacer {
     width: "24px";
