@@ -4,11 +4,9 @@ date: Last Modified
 permalink: /
 eleventyNavigation:
   key: Dictating_text_iPad
-  order: 1001
+  order: 10
   title: Dictating text on an iPad
 ---
-
-
 
 If you can't see the screen well, then it can be hard to use the keyboard - and of course this will make it hard to enter text when you're trying to do something like writing an email or doing a Google search.
 
