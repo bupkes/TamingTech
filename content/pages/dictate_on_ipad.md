@@ -3,7 +3,7 @@ title: Dictating text on an iPad
 date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Dictating text on an iPad
+  key: Dictating_text_iPad
   order: 1001
   title: Dictating text on an iPad
 ---
