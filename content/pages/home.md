@@ -1,5 +1,5 @@
 ---
-title: Hello, world.
+title: Hello
 date: Last Modified
 permalink: /
 eleventyNavigation:
@@ -8,10 +8,6 @@ eleventyNavigation:
   title: Hello, world.
 ---
 
-HELLO!
+Hello, welcome to my site.
 
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
-
-![Hello, world](/content/images/hello.jpg)
-
-->*Onward...*<-
+I spend a lot of my time explaining how to do things with technology, and I thought I would collect some of the things I frequently share and stick them online.
