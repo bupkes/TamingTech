@@ -1,7 +1,7 @@
 ---
 title: Dictating text on an iPad
 date: Last Modified
-permalink: /Apple/iPad/dictation
+permalink: /Apple/iPad/dictation.html
 eleventyNavigation:
   key: Dictating_text_iPad
   order: 10
